@@ -5,10 +5,9 @@ I'm a Frontend Developer 🚀,
 
 📚 About me: Who shares a passion for software development and experience. I specialize in languages such as Html, CSS, and JavaScript, and I strive to learn and improve myself by working on projects.
 
-💻 I consider myself a community-focused software developer with contributions to open-source projects. In my own projects, I prioritize innovation and quality, adopting an open approach to constantly learn new things.
+💻 I prioritize innovation and quality in my own projects, aiming to continuously learn new information while contributing to open-source projects.
 
-🌐 I work on open-source projects, believing that it makes me a community-focused software developer.In my own projects,I prioritize innovation and quality in my own projects, adopting an open approach to constantly learn new things."
-
+🌐 I work on open-source projects, believing that it makes me a community-focused software developer.In my own projects,I prioritize innovation and quality in my own projects, adopting an open approach to constantly learn new things.
 
 - 🌱 I'm currently learning React, Nextjs
 -  📫 How can you contact me? Reach out at kocfadime596@gmail.com.
