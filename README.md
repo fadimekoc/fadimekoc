@@ -10,7 +10,7 @@ I'm a Frontend Developer 🚀,
 🌐 I work on open-source projects, believing that it makes me a community-focused software developer.In my own projects,I prioritize innovation and quality in my own projects, adopting an open approach to constantly learn new things.
 
 - 🌱 I'm currently learning React, Nextjs
-- 📫 How can you contact me? Reach out at kocfadime596@gmail.com.
+- 📫 How can you contact me? kocfadime596@gmail.com.
 
 
 - ### 🔧 Languages and Tools:
