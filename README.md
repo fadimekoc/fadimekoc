@@ -1,8 +1,9 @@
 Hi :wave:, I’m Fadime Koç. 
 
+
 I’m a Frontend Developer :rocket:.
 
-
+<br/>
 
 :books: About me: I have expertise in HTML, CSS, and JavaScript. Driven by my passion for front-end development and user experience, I am dedicated to specializing further in these technologies and enhancing my skills through project work.
 
